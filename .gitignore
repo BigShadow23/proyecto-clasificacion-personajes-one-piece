@@ -1,0 +1,22 @@
+# Dataset original
+Data/
+
+# Carpetas creadas durante la limpieza y división
+one_piece_limpio/
+one_piece_dividido/
+
+# Modelos entrenados
+*.pth
+*.pt
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Configuración local de Visual Studio Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
