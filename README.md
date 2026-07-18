@@ -177,7 +177,7 @@ Además, más adelante se podría ajustar algunas de las capas finales de ResNet
 El repositorio contiene los archivos necesarios para revisar el desarrollo del proyecto y reproducir el entorno utilizado:
 
 ```text
-Proyecto_Final2/
+proyecto-clasificacion-personajes-one-piece/
 ├── Proyecto_One_Piece_Clasificacion.ipynb
 ├── README.md
 ├── environment.yml
